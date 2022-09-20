@@ -5,7 +5,7 @@
 * @s: string
 *
 * Return: the length of the given string
- */
+*/
 
 int _strlen(char *s)
 {
@@ -16,20 +16,3 @@ int _strlen(char *s)
 
 	return (len);
 }
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
