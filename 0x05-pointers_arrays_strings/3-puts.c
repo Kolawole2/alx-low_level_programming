@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "main.h"
+#include "holberton.h"
 
 /**
 * _puts - print a string to stdout
