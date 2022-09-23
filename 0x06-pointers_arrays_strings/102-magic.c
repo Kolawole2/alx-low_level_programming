@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - normals
+ *
+ * Return: return 1
+ */
 int main(void)
 {
 	int n;
